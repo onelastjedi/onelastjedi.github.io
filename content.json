@@ -1,3 +1,8 @@
 {
-  "custom-field": "Test"
+  "custom-field": "Test",
+  "custom-list": [
+    {
+      "custom-list-item": "Releases"
+    }
+  ]
 }
